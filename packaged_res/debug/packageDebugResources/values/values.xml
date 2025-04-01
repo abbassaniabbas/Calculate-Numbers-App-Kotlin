@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">MyKotlinApp</string>
+    <string name="enter_a">Enter a</string>
+    <string name="enter_b">Enter b</string>
+    <style name="Base.Theme.MyKotlinApp" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.MyKotlinApp" parent="Base.Theme.MyKotlinApp"/>
+</resources>
